@@ -66,8 +66,9 @@ body{
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
+    
 }
-.profile-photo{
+.profile-photo img{
     height: 6rem;
     width: 6rem;
 }
